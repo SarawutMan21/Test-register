@@ -12,7 +12,7 @@
 *framework
 - angular
 
-+css framework
+*css framework
 -tailwind.css
 
 
