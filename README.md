@@ -5,7 +5,7 @@
 
 *tool 
 - vscode
-- 
+
 *framework
 - angular
 
