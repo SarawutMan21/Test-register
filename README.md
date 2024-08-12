@@ -4,7 +4,7 @@
 - ng serve
 -----------------------------------------------
  * register-page
- * and user-details
+ * user-details
 
 *tool 
 
@@ -16,7 +16,7 @@
 
 *css framework
 
--tailwind.css
+- tailwind.css
 
 
 🙏🙏
