@@ -2,7 +2,7 @@
 *Starting from*
 - npm i 
 - ng serve
-
+-----------------------------------------------
  * register-page
  * and user-details
 
